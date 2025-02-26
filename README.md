@@ -1,6 +1,6 @@
 # 🚗 Automatic Number Plate Recognition (ANPR) Project
 
-### Developed by **Anuj Tiwari**  
+
 ![3D Banner](https://raw.githubusercontent.com/ANUJSELF/resume/main/banner.gif)
 
 ## 📌 Project Overview
