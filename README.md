@@ -45,8 +45,6 @@ ANPR-Project/
    ```
 4. **View Results in Output Window**
 
-## 📊 Model Performance
-![YOLOv8 Detection](https://raw.githubusercontent.com/ANUJSELF/resume/main/anpr_demo.gif)
 
 ## 📜 License
 This project is open-source and available for educational purposes.
